@@ -1,6 +1,6 @@
 # Write a python program for the following:
 #Input the string “Python” as a list of characters from console, delete at least 2 characters, reversethe resultant string and print it.
-
+#Orginal File Link: https://colab.research.google.com/drive/1SM_w9BcWmLFDpkVkB6TZSg9HMmqJVjYS
 s1 = input("Enter the string :")
 s2 =list(s1.strip())
 print(type(s1))
